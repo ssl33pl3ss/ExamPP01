@@ -1,0 +1,8 @@
+D:\Шарага\@Random\UnitTestProject\UnitTestProject\bin\Debug\netstandard2.0\UnitTestProject.deps.json
+D:\Шарага\@Random\UnitTestProject\UnitTestProject\bin\Debug\netstandard2.0\UnitTestProject.dll
+D:\Шарага\@Random\UnitTestProject\UnitTestProject\bin\Debug\netstandard2.0\UnitTestProject.pdb
+D:\Шарага\@Random\UnitTestProject\UnitTestProject\obj\Debug\netstandard2.0\UnitTestProject.csprojAssemblyReference.cache
+D:\Шарага\@Random\UnitTestProject\UnitTestProject\obj\Debug\netstandard2.0\UnitTestProject.AssemblyInfoInputs.cache
+D:\Шарага\@Random\UnitTestProject\UnitTestProject\obj\Debug\netstandard2.0\UnitTestProject.AssemblyInfo.cs
+D:\Шарага\@Random\UnitTestProject\UnitTestProject\obj\Debug\netstandard2.0\UnitTestProject.dll
+D:\Шарага\@Random\UnitTestProject\UnitTestProject\obj\Debug\netstandard2.0\UnitTestProject.pdb
